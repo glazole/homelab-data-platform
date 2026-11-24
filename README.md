@@ -8,7 +8,7 @@ This repository is the **central architecture overview and GitHub Pages website*
 
 | Area | Repository | Purpose |
 | --- | --- | --- |
-| Infrastructure & identity | [outline_wiki](https://github.com/glazole/outline_wiki) | Nginx, Keycloak, RustFS S3, Outline and shared services |
+| Infrastructure & identity | [homelab-outline-wiki](https://github.com/glazole/homelab-outline-wiki) | Nginx, Keycloak, RustFS S3, Outline and shared services |
 | Orchestration | [homelab-airflow](https://github.com/glazole/homelab-airflow) | Apache Airflow, schedules, DAGs and local task execution |
 | Lakehouse & compute | [homelab-sparkice](https://github.com/glazole/homelab-sparkice) | Spark, Iceberg, JupyterHub and object storage |
 | Analytics | [homelab-analytics-stack](https://github.com/glazole/homelab-analytics-stack) | PostgreSQL, ClickHouse, pgAdmin and Metabase |
