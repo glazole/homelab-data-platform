@@ -25,7 +25,7 @@ The site does not require a backend, database, or credentials. Internal homelab 
 
 ## Engineering background
 
-The homelab reflects architectural patterns learned while designing, implementing and operating Data Engineering solutions over roughly three years in real production work. The public code, configurations and descriptions are independently prepared for demonstration. No production data, source code, access credentials or non-public system details belong in this portfolio.
+The homelab reflects architectural patterns learned while designing, implementing and operating Data Engineering solutions over more than four years in real production work. The public code, configurations and descriptions are independently prepared for demonstration. No production data, source code, access credentials or non-public system details belong in this portfolio.
 
 This is a **single-host laboratory**, not a highly available production cluster. Hardware budgets and operational assumptions differ from enterprise deployments.
 
